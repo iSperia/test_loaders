@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoaderResetTest</string>
+    <string name="recreate_activity">RecreateActivity</string>
+</resources>
